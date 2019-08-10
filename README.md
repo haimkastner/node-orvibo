@@ -1,3 +1,12 @@
+NOTICE!!!
+===========
+This project forked from [node-orvibo](https://github.com/Grayda/node-orvibo).
+
+The changed from original package is to replace 'sleep' package with 'sleep-promise'.
+Because of sleep requires python to be installed on machine.
+
+To use original [project in NPM](https://www.npmjs.com/package/node-orvibo) : `npm i node-orvibo`
+
 node-orvibo
 ===========
 [![Support this project on GratiPay](https://img.shields.io/gratipay/grayda.svg)](http://gratipay.com/node-orvibo)
